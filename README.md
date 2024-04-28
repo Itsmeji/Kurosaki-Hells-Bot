@@ -16,7 +16,7 @@
 </p>
 
 ####  
-GURU-BOT- Simple Multi Device whatsapp bot.
+Kurosaki-Hells-BΩT- Simple Multi Device whatsapp bot.
 
 ***
 
@@ -24,7 +24,7 @@ GURU-BOT- Simple Multi Device whatsapp bot.
 
 1. Fork the repo
     <br>
-<a href='https://github.com/Guru322/GURU-BOT/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/Itsmeji/Kurosaki-Hells-Bot/edit/main/README.md' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 
@@ -111,7 +111,7 @@ will update this README as soon as i find a solution to this shit
 
 SUPPORT GROUP: <a href="https://chat.whatsapp.com/EC7bZxZ9CK97fYOYMXmzlV"><img alt="WhatsApp" src="https://camo.githubusercontent.com/2157131829ac512183ee8f8b6c6f803688a4cc66a2e686602844e80478401a7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2047726f75702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"/></a>
 
-- Star ⭐ the repo if you like GURU-BOT.
+- Star ⭐ the repo if you like Kurosaki-Hells-BΩT.
 
 ## CREDITS 
 <div><button id="boton" type="button">Baileys - By WhiskeySockets & adiwajshing</button></div>
@@ -132,8 +132,3 @@ SUPPORT GROUP: <a href="https://chat.whatsapp.com/EC7bZxZ9CK97fYOYMXmzlV"><img a
 - If A plugin's code is obfuscated , You don't have permission to edit it in any form 
 - Don't Forget to Give Credits If you are using or Reuploading My Plugins/files
 - Have A Good Day Ahead
-
-
-
-## License
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FGuru322%2FGURU-BOT.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FGuru322%2FGURU-BOT?ref=badge_large)
