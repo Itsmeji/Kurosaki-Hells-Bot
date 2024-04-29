@@ -113,15 +113,6 @@ SUPPORT GROUP: <a href="https://chat.whatsapp.com/EC7bZxZ9CK97fYOYMXmzlV"><img a
 
 - Star ⭐ the repo if you like Kurosaki-Hells-BΩT.
 
-## CREDITS 
-<div><button id="boton" type="button">Baileys - By WhiskeySockets & adiwajshing</button></div>
-<a href="https://github.com/WhiskeySockets/Baileys"><img src="https://github.com/WhiskeySockets.png" width="150" height="150" alt="adiwajshing"/></a>
-
-<div><button id="boton" type="button">Base  - By FG98F</button></div>
-<a href="https://github.com/FG98F"><img src="https://github.com/FG98F.png" width="150" height="150" alt="adiwajshing"/></a>
-
-
-
 ## `Main Dev` 
 <a href="https://github.com/Guru322"><img src="https://github.com/Guru322.png" width="250" height="250" alt="Guru322"/></a>
   
