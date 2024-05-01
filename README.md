@@ -1,6 +1,6 @@
 <p align="center">  
   <a href="https://youtu.be/WcA7GZuaN0A">
-    <img alt="Kurosaki Ichigo" height="300" src="https://telegra.ph/file/6804000a1fc3cc1374260.jpg">
+    <img alt="Kurosaki Ichigo" height="300" src="https://telegra.ph/file/37a187d70051e558bc611.png">
     <h1 align="center">𓆩☀️『🪶❦𝐊𝐮𝐫𝐨𝐬𝐚𝐤𝐢 𝐇'𝐥𝐥𝐬 𝐅𝐚𝐦𝐢𝐥𝐲🪽』🌙𓆪 2.O</h1>
   </a>
 </p>
