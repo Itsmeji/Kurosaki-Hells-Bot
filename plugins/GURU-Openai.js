@@ -14,8 +14,8 @@ let handler = async (m, { text, conn, usedPrefix, command }) => {
     const { key } = await conn.sendMessage(
       m.chat,
       {
-        image: { url: 'https://telegra.ph/file/c3f9e4124de1f31c1c6ae.jpg' },
-        caption: 'Thinking....',
+        image: { url: 'https://telegra.ph/file/c89ec206508d66755e0f3.jpg' },
+        caption: 'Thinking...😪.',
       },
       { quoted: m }
     )
