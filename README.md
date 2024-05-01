@@ -9,8 +9,8 @@
 <p/>
 <p align="center">
 <a href="https://github.com/Itsmeji?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Itsmeji?label=Followers&style=social"></a>
-<a href="https://github.com/Itsmeji/Kurosaki-Hells-Bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Guru322/Kurosaki-Hells-Bot?&style=social"></a>
-<a href="https://github.com/Itsmeji/Kurosaki-Hells-Bot/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Guru322/Kurosaki-Hells-Bot?style=social"></a>
+<a href="https://github.com/Itsmeji/Kurosaki-Hells-Bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Itsmeji/Kurosaki-Hells-Bot?&style=social"></a>
+<a href="https://github.com/Itsmeji/Kurosaki-Hells-Bot/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Itsmeji/Kurosaki-Hells-Bot?style=social"></a>
 <a href="https://github.com/Itsmeji/Kurosaki-Hells-Bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Itsmeji/Kurosaki-Hells-Bot?label=Watching&style=social"></a>
 <a href="https://app.fossa.com/projects/git%2Bgithub.com%2FItsmeji%2FKurosaki-Hells-Bot?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FItsmeji%2FKurosaki-Hells-Bot.svg?type=shield"/></a>
 </p>
