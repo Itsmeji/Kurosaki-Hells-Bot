@@ -114,7 +114,7 @@ SUPPORT GROUP: <a href="https://chat.whatsapp.com/EC7bZxZ9CK97fYOYMXmzlV"><img a
 - Star ⭐ the repo if you like Kurosaki-Hells-BΩT.
 
 ## `Main Dev` 
-<a href="https://github.com/Guru322"><img src="https://github.com/Guru322.png" width="250" height="250" alt="Guru322"/></a>
+<a href="https://github.com/Itsmeji"><img src="https://github.com/Itsmeji.png" width="250" height="250" alt="Itsmeji"/></a>
   
 `𓆩☀️『🪶❦𝐊𝐮𝐫𝐨𝐬𝐚𝐤𝐢✘-BΩT🪽』🌙𓆪 - By Kurosaki Hells Ichigo`
 
