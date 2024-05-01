@@ -1,7 +1,7 @@
 <p align="center">  
   <a href="https://youtu.be/WcA7GZuaN0A">
-    <img alt="Kurosaki Ichigo" height="300" src="https://telegra.ph/file/e78b5f34a13dfd2d1e00f.jpg">
-    <h1 align="center">GURU-BOT 2.O</h1>
+    <img alt="Kurosaki Ichigo" height="300" src="https://telegra.ph/file/6804000a1fc3cc1374260.jpg">
+    <h1 align="center">𓆩☀️『🪶❦𝐊𝐮𝐫𝐨𝐬𝐚𝐤𝐢 𝐇'𝐥𝐥𝐬 𝐅𝐚𝐦𝐢𝐥𝐲🪽』🌙𓆪 2.O</h1>
   </a>
 </p>
 <p align="center">
