@@ -96,28 +96,28 @@ export async function handler(chatUpdate) {
       if (typeof chat !== 'object') global.db.data.chats[m.chat] = {}
       if (chat) {
         if (!('antiDelete' in chat)) chat.antiDelete = true
-        if (!('antiLink' in chat)) chat.antiLink = false
+        if (!('antiLink' in chat)) chat.antiLink = true
         if (!('antiSticker' in chat)) chat.antiSticker = false
         if (!('antiToxic' in chat)) chat.antiToxic = false
         if (!('detect' in chat)) chat.detect = false
         if (!('getmsg' in chat)) chat.getmsg = true
         if (!('isBanned' in chat)) chat.isBanned = false
         if (!('nsfw' in chat)) chat.nsfw = false
-        if (!('sBye' in chat)) chat.sBye = ''
-        if (!('sDemote' in chat)) chat.sDemote = ''
+        if (!('sBye' in chat)) chat.sBye = true
+        if (!('sDemote' in chat)) chat.sDemote = true
         if (!('simi' in chat)) chat.simi = false
-        if (!('sPromote' in chat)) chat.sPromote = ''
-        if (!('sWelcome' in chat)) chat.sWelcome = ''
+        if (!('sPromote' in chat)) chat.sPromote = true
+        if (!('sWelcome' in chat)) chat.sWelcome = true
         if (!('useDocument' in chat)) chat.useDocument = false
         if (!('viewOnce' in chat)) chat.viewOnce = false
         if (!('viewStory' in chat)) chat.viewStory = false
-        if (!('welcome' in chat)) chat.welcome = false
+        if (!('welcome' in chat)) chat.welcome = true
         if (!('chatbot' in chat)) chat.chatbot = false
         if (!isNumber(chat.expired)) chat.expired = 0
       } else
         global.db.data.chats[m.chat] = {
           antiDelete: true,
-          antiLink: false,
+          antiLink: true,
           antiSticker: false,
           antiToxic: false,
           detect: false,
@@ -125,16 +125,16 @@ export async function handler(chatUpdate) {
           getmsg: true,
           isBanned: false,
           nsfw: false,
-          sBye: '',
-          sDemote: '',
+          sBye: true,
+          sDemote: true, 
           simi: false,
-          sPromote: '',
-          sticker: false,
-          sWelcome: '',
+          sPromote: true,
+          sticker: true,
+          sWelcome: true,
           useDocument: false,
           viewOnce: false,
           viewStory: false,
-          welcome: false,
+          welcome: true,
           chatbot: false,
         }
 
